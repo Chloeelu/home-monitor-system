@@ -56,6 +56,7 @@ The Home Monitor System provides real-time monitoring and remote control of hous
 
 <div align="center">
 <strong>Home Monitor System Setup</strong>
+<br>
 <img src="images/2.png" alt="screenshort3" width="400">
 </div>
 
