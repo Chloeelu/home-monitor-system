@@ -64,7 +64,7 @@ The Home Monitor System provides real-time monitoring and remote control of hous
 
 Yixi Lu - yixilu445@gmail.com
 
-Project Link: [https://github.com/Chloeelu/GYM-Database-Management-System/tree/main]
+Project Link: [https://github.com/Chloeelu/home-monitor-system]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
